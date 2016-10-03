@@ -1,0 +1,2 @@
+tornado>=4.4.1
+python-twitter>=3.1
